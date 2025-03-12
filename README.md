@@ -1,6 +1,6 @@
 # 📌 Reminder - Kotlin App
 
-#c✨ Features
+# ✨ Features
 ✅ Create, Update, Delete, and Find Reminders
 
 🔔 Notifications for Scheduled Reminders
@@ -43,7 +43,7 @@ AlarmManager - To schedule notifications.
 
 Coroutines - For background operations.
 
-#🚀 Usage
+# 🚀 Usage
 
 Adding a Reminder
 
@@ -66,7 +66,7 @@ Using the Stopwatch
 Start, pause, and reset the stopwatch for time tracking.
 
 
-#🤝 Contributing
+# 🤝 Contributing
 
 Fork the repository.
 
